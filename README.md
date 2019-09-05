@@ -1,6 +1,6 @@
 # Hybrid_CNN_with_1DCAE
 
-### This code implements the following paper layer.
+### This code implements the following paper.
 
 #### Paper URL : https://arxiv.org/abs/1705.04790
 #### Paper Title : ShortFuse: Biomedical Time Series Representations in the Presence of Structured Information
